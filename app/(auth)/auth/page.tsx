@@ -1,5 +1,5 @@
-import Link from "next/link"
 import { AuthForm } from "@/components/auth-form"
+import Link from "next/link"
 
 export default function AuthPage() {
   return (
